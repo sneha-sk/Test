@@ -1,0 +1,1 @@
+ERROR 2015-01-13 15:14:20 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.

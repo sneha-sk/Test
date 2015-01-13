@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/sannidhi/.cache/upstart/unity-settings-daemon.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/unity-panel-service.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/dbus.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/im-config.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/unity7.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/gnome-session-Unity.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/window-stack-bridge.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/at-spi2-registryd.log" 2015-1-13-14:0:0
+"/home/sannidhi/.cache/upstart/indicator-power.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/indicator-sound.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/update-notifier-release.log" 2015-1-13-14:52:13
+"/home/sannidhi/.cache/upstart/indicator-bluetooth.log" 2015-1-13-14:52:13
